@@ -16,7 +16,4 @@
     "url": "https://github.com/stevengill/npmInstallTest/issues"
   },
   "homepage": "https://github.com/stevengill/npmInstallTest#readme",
-  "dependencies": {
-    "cordova-plugin-file": "^4.1.0"
-  }
 }
